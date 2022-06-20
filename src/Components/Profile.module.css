@@ -1,0 +1,13 @@
+.mContent img {
+  width: 500;
+}
+
+
+
+.mContent {
+  grid-area: content;
+  background-color:aqua;
+
+}
+
+
