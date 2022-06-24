@@ -10,4 +10,14 @@
 
 }
 
+.item {
+  color : green;
+}
 
+.item img {
+  width: 50px;
+}
+
+.description {
+  padding: 20px;
+}
